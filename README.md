@@ -13,10 +13,10 @@
 
 ##  Positions
 **Universiti Teknologi Malaysia (UTM)**
--Member, Sekretariat Rakan Muda (SRM)
+- Member, Sekretariat Rakan Muda (SRM)
 
 **Kolej Matrikulasi Pulau Pinang (KMPP)**  
--Member, Sekretariat Rukun Negara (SRN)
+- Member, Sekretariat Rukun Negara (SRN)
 
 **SMK Bukit Jalil (SMK BJ)**
 - Committee Member, Kelab Seni
