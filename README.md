@@ -22,3 +22,9 @@
 - Committee Member, Kelab Seni
 - Member, Kelab Kadet Remaja Sekolah
 - Member, Kadet Remaja Sekolah
+
+## Skills
+- Basic programming (Java, C++)
+- Teamwork and Communication
+- Time management
+- Problem solving skills
